@@ -10,7 +10,7 @@
 <h2>Projects List :</h2>
 
 <ul>
-<a href="#"><li>BGR Color Palette</li></a>
+<a href="https://github.com/shubhamkochar/Basic_OpenCV_Projects/blob/main/BGR%20Color%20Palette/main.py"><li>BGR Color Palette</li></a>
 <a href="#"><li>Black and White dots</li></a>
 <a href="#"><li>Coordinates and Colour</li></a>
 <a href="#"><li>Extracting frames</li></a>
