@@ -11,7 +11,7 @@
 
 <ul>
 <a href="#BGR_palette"><li>BGR Color Palette</li></a>
-<a href="#"><li>Black and White dots</li></a>
+<a href="#Black_and_White"><li>Black and White dots</li></a>
 <a href="#"><li>Coordinates and Colour</li></a>
 <a href="#"><li>Extracting frames</li></a>
 <a href="#"><li>Sketch Image</li></a>
@@ -27,7 +27,7 @@
 </div>
 
 <div>
-<a href="#"><h2>Black and White dots</h2></a>
+<a href="#"><h2 id ="Black_and_White">Black and White dots</h2></a>
 <p>We'll try to figure out where the black and white dots in an image are. You must first set the image's path, after which we will relocate the trackbar. The positions of the black or white dots will be seen when the trackbar moves. When you increase the value of the trackbar, the location of the white dot will be shown by black dots in new window, and when you decrease the value of the trackbar, the position of the white dot will be shown by black dots in the same window. By examining the original image, you may compare the positions.</p>
 <img src="Images\Black and White dots.png">
 </div>
