@@ -35,7 +35,7 @@
 <div>
 <a href="#"><h2 id="CoordinateAndColor" >Coordinates and Color</h2></a>
 <p>In this, We can use the right mouse click to obtain the image's coordinates, and the left mouse click to find the RGB colour value of that point.</p>
-<img src="Images\Coordiantes & color.png" style="height:300px" width="750px">
+<img src="Images\Coordiantes & color.png" style="height:400px" width="1000px">
 </div>
 </div>
 
