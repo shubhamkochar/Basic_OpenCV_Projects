@@ -38,6 +38,11 @@
 <img src="Images\Coordiantes & color.png" style="height:400px" width="1000px">
 </div>
 </div>
-
+<br>
+<div>
+<a href="#"><h2 id="FrameExtracting">Frame Extracting</h2></a>
+<p>This code will extract frames from a provided video in image format.</p>
+<img src="Images/Frame extracting.png">
+</div>
 <br>
 <p style="text-align:center;">More projects, comming soon!</p>
