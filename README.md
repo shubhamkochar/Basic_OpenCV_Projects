@@ -13,7 +13,7 @@
 <a href="#BGR_palette"><li>BGR Color Palette</li></a>
 <a href="#Black_and_White"><li>Black and White dots</li></a>
 <a href="#CoordinateAndColor"><li>Coordinates and Colour</li></a>
-<a href="#FrameExtracting"><li>Extracting frames</li></a>
+<a href="#FrameExtracting"><li>Frame Extracting</li></a>
 <a href="#"><li>Sketch Image</li></a>
 <!--<a href="#"><li>Car Number Plate detection</li></a>-->
 </ul>
