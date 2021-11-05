@@ -13,7 +13,7 @@
 <a href="#BGR_palette"><li>BGR Color Palette</li></a>
 <a href="#Black_and_White"><li>Black and White dots</li></a>
 <a href="#CoordinateAndColor"><li>Coordinates and Colour</li></a>
-<a href="#FrameExtracting"><li>Frame Extracting</li></a>
+<a href="#FrameExtracting"><li>Extracting Frames</li></a>
 <a href="#"><li>Sketch Image</li></a>
 <!--<a href="#"><li>Car Number Plate detection</li></a>-->
 </ul>
@@ -40,7 +40,7 @@
 </div>
 <br>
 <div>
-<a href="https://github.com/shubhamkochar/Basic_OpenCV_Projects/blob/main/Extracting%20Frames/main.py"><h2 id="FrameExtracting">Frame Extracting</h2></a>
+<a href="https://github.com/shubhamkochar/Basic_OpenCV_Projects/blob/main/Extracting%20Frames/main.py"><h2 id="FrameExtracting">Extracting Frames</h2></a>
 <p>This code will extract frames from a provided video in image format.</p>
 <img src="Images/Frame extracting.png">
 </div>
